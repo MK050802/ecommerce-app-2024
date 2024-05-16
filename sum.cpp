@@ -2,7 +2,7 @@
 using namespace std;
 int sum(int a, int b)
 {
-    cout << "the sum of the entered two number is:" << endl;
+    cout << "the sum of the entered two number is:" <<(a - b) << endl;
 }
 int main()
 {
